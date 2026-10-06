@@ -1,0 +1,90 @@
+[
+ {
+  "name": "gem_burst_blue",
+  "category": "Gems",
+  "frames": 20,
+  "cell": 192,
+  "cols": 8,
+  "rows": 3,
+  "fps": 30,
+  "loop": false,
+  "additive": false
+ },
+ {
+  "name": "match_pop_pink",
+  "category": "Gems",
+  "frames": 16,
+  "cell": 192,
+  "cols": 8,
+  "rows": 2,
+  "fps": 30,
+  "loop": false,
+  "additive": false
+ },
+ {
+  "name": "star_burst_gold",
+  "category": "Rewards",
+  "frames": 24,
+  "cell": 192,
+  "cols": 8,
+  "rows": 3,
+  "fps": 30,
+  "loop": false,
+  "additive": false
+ },
+ {
+  "name": "coin_burst_gold",
+  "category": "Rewards",
+  "frames": 30,
+  "cell": 256,
+  "cols": 8,
+  "rows": 4,
+  "fps": 30,
+  "loop": false,
+  "additive": false
+ },
+ {
+  "name": "confetti_burst_01",
+  "category": "Celebration",
+  "frames": 36,
+  "cell": 256,
+  "cols": 8,
+  "rows": 5,
+  "fps": 30,
+  "loop": false,
+  "additive": false
+ },
+ {
+  "name": "ring_shockwave_white",
+  "category": "Impacts",
+  "frames": 16,
+  "cell": 192,
+  "cols": 8,
+  "rows": 2,
+  "fps": 30,
+  "loop": false,
+  "additive": false
+ },
+ {
+  "name": "tap_ripple",
+  "category": "Impacts",
+  "frames": 14,
+  "cell": 192,
+  "cols": 8,
+  "rows": 2,
+  "fps": 30,
+  "loop": false,
+  "additive": false
+ },
+ {
+  "name": "sparkle_twinkle_white_loop",
+  "category": "Magic",
+  "frames": 24,
+  "cell": 192,
+  "cols": 8,
+  "rows": 3,
+  "fps": 30,
+  "loop": true,
+  "additive": true
+ }
+]
